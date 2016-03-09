@@ -174,7 +174,9 @@ img.flower2 {
 }
 .content2{
   width:630px;
+  height: 260px;
   margin-top: 20px;
+  box-sizing: border-box;
 }
 .blog{
   width: 630px;
@@ -184,9 +186,10 @@ img.flower2 {
   border-radius: 3px;
   box-shadow: -5px 5px rgba(165,77,5,0.5);
   margin-top: 10px;
+  padding-top: 10px;
+  box-sizing: border-box;
 }
 .blogimg{
-  margin-top: 10px;
   margin-bottom: 10px;
   margin-left: 10px;
   margin-right: 10px;
@@ -198,7 +201,7 @@ img.flower2 {
 }
 .gray3 {
   margin: 0 auto;
-  margin-top: 14px;
+  margin-top: 5px;
   font-size: 16px;
   font-family: Arial;
   color: #404040;
