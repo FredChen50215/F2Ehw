@@ -82,8 +82,8 @@ footer {
   box-sizing: border-box;
 }
 .videoZone{
-  padding-left: 64.1px;
-  padding-right: 64.1px;
+  padding-left: 6%;
+  padding-right: 6%;
   background-color: rgb(64,64,64);
   box-sizing: border-box;
 }
@@ -94,11 +94,13 @@ footer {
 }
 .smallBlock{
   float: left;
-  margin-right: 80px;
+  margin-right: 4.5%;
+  display: block;
 }
 .smallBlock2{
-  float: right;
+  float: left;
   margin: 0;
+  display: block;
 }
 .div-videoTitle{
   margin-bottom: 10px;
