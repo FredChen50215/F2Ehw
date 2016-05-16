@@ -166,6 +166,10 @@ footer {
 }
 /* img */
 
+.img-menu{
+  float: left;
+  display: none;
+}
 .img-logo {
   float: left;
   width: 209.25px;
@@ -233,5 +237,22 @@ footer {
   }
   .div-link{
     display: none;
+  }
+  .smallHidden{
+    display: none;
+  }
+  .img-logo{
+    margin-left: 0px;
+    float: right;
+    margin-right: 20vw;
+    width: 58vw;
+    height: 14.5vw;
+  }
+  .img-menu{
+    display: flex;
+    margin-top: 15px;
+    margin-left: 20px;
+    width: 30px;
+    line-height: 60px;
   }
 }
